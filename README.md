@@ -1,4 +1,4 @@
-landingPage MatchBlood
+Landing Page MatchBlood
 ===========
 
-Landing page del sitio
+Muestra informacion y proporciona al usuario una forma de suscribirse.
